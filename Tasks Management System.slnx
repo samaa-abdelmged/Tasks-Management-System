@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Tasks Management System.Application/Tasks Management System.Application.csproj" />
+  <Project Path="Tasks Management System.Domain/Tasks Management System.Domain.csproj" />
+  <Project Path="Tasks Management System.Infrastructure/Tasks Management System.Infrastructure.csproj" />
+  <Project Path="Tasks Management System/Tasks Management System.API.csproj" />
+  <Project Path="Tasks_Management_System.Test/Tasks_Management_System.Test.csproj" Id="d1cc3da9-69a2-4f39-80dd-ca15cf81bd3a" />
+</Solution>
