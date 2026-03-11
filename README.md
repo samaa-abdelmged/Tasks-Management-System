@@ -63,6 +63,5 @@ The API was tested and documented using:
 Swagger
 Postman
 
-Project Goal
-
+Project Goal:
 The goal of this project is to demonstrate the development of a secure and scalable full-stack application, applying modern backend architecture with a responsive frontend interface.
