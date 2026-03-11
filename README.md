@@ -160,7 +160,7 @@ Tasks-Management-System
 1️⃣ Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/tasks-management-system.git
+git clone https://github.com/samaa-abdelmged/Tasks-Management-System/tree/master
 ```
 
 2️⃣ Navigate to Project Folder:
